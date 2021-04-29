@@ -1,6 +1,6 @@
 # Final output
 
-Open [AnurgKeep](https://github.com/facebook/create-react-app).
+Open [AnurgKeep](https://anurgkeep.netlify.app).
 
 ## Available Scripts
 
